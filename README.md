@@ -1,5 +1,7 @@
 # TD4 - Synchronisation et sémaphores
 
+Lien GitHub Classroom pour [faire un fork privé du TP](https://classroom.github.com/a/jqj0L3df).
+
 Dans ce TD, nous allons voir comment les moniteurs et les sémaphores peuvent être utilisés en Java pour réaliser l’exclusion mutuelle et/ou pour synchroniser des tâches.
 
 ## Exercice 1 : Exclusions mutuelles avec `synchronized` et coopération
