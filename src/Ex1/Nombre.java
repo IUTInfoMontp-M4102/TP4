@@ -12,14 +12,14 @@ public class Nombre {
     /**
      * Incrémente n de 1, attend 100ms puis met à jour la valeur de carre = n * n
      */
-    public synchronized void calcul() {
+    public void calcul() {
         // À compléter
     }
 
     /**
      * Ex1.Affiche les valeurs de n et carre sur la sortie standard
      */
-    public synchronized void affiche() {
+    public void affiche() {
         // À compléter
     }
 }
